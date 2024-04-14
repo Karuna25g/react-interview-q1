@@ -18,7 +18,7 @@ Please build the following form component
 ## Solution
 ## My approch
 
-I have used React-Bootstrap and Bootsrap concepts to make this form responsive
+I have implemented React-Bootstrap and Bootsrap concepts to make the below form responsive
 
 ![Form](https://github.com/Karuna25g/react-interview-q1/assets/144186770/8c483446-c5ee-4693-958b-f9119c71f70a)
 
