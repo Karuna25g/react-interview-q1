@@ -15,7 +15,9 @@ Please build the following form component
 * Component should have a responsive layout
 * Component should be appropriately styled
 * Unit tests are not required
-
+## Solution
 ## My approch
 
 I have used React-Bootstrap and Bootsrap concepts to make this form responsive
+
+![form component mock](./form.png)
