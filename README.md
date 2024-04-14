@@ -20,4 +20,5 @@ Please build the following form component
 
 I have used React-Bootstrap and Bootsrap concepts to make this form responsive
 
-![form component mock](./form.png)
+![Form](https://github.com/Karuna25g/react-interview-q1/assets/144186770/8c483446-c5ee-4693-958b-f9119c71f70a)
+
